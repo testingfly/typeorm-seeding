@@ -2,9 +2,7 @@
 
 Seeding your database is a crucial step in the application development process. It not only simplifies prototyping but also eases the transition to a production environment. Whether you're in the early stages of ideation or have a fully-fledged application, database seeding can be a game-changer. In this guide, we will walk you through how to seed your database using TypeORM and TypeORM Seeding, focusing on creating random data and establishing relationships.
 
-**Published on:** October 19, 2022
-
-**Estimated Reading Time:** 6 minutes
+**Last Updated:** November 6, 2023
 
 ## Table of Contents
 - [TypeORM Database Seeding Guide](#typeorm-database-seeding-guide)
