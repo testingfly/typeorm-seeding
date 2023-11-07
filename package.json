@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "seed": "ts-node src/seeds.ts"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "reflect-metadata": "^0.1.13",
+    "sqlite": "^5.1.1",
+    "typeorm": "^0.3.17",
+    "typeorm-extension": "^3.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "ts-node": "^10.9.1"
+  }
+}

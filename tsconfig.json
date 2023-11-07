@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+      "typeRoots": ["node_modules/@types"],
+      "module": "CommonJS",
+      "rootDir": "./src",
+      "experimentalDecorators": true,
+      "strictPropertyInitialization": false,
+      "strict": true,
+      "esModuleInterop": true,
+      "emitDecoratorMetadata": true ,
+      "noFallthroughCasesInSwitch": true,
+      "baseUrl": ".",
+      "paths": {
+        "@/*": ["src/*"]
+      }
+    },
+    "include": ["src/**/*.ts", "src/seeds.ts"],
+    "exclude": ["node_modules"]
+  }
+  
